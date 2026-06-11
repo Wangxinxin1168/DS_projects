@@ -9,7 +9,7 @@
 - `Jiaxin_Wang_Adidas_US_Sales_Analysis.ipynb`：分析代码与结果  
 - `Adidas US Sales Datasets.xlsx`：原始数据集 
 
-# Adidas US Sales Analysis (Optional English Version)
+# Adidas US Sales Analysis
 **Author:** Jiaxin Wang  
 **Date:** 2026-04
 
